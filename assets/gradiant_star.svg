@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.536" height="26.702" viewBox="0 0 27.536 26.702">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.882" y1="1.196" x2="-0.117" y2="-0.323" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8742f5"/>
+      <stop offset="1" stop-color="#f5579c"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_fa-solid-star" data-name="Icon fa-solid-star" d="M16.964.939a1.671,1.671,0,0,0-3,0l-3.353,6.9L3.119,8.943a1.669,1.669,0,0,0-.928,2.837l5.434,5.376-1.283,7.6a1.673,1.673,0,0,0,2.435,1.752l6.69-3.572,6.69,3.572a1.673,1.673,0,0,0,2.435-1.752l-1.288-7.6,5.434-5.376a1.669,1.669,0,0,0-.928-2.837L20.317,7.838Z" transform="translate(-1.698)" fill="url(#linear-gradient)"/>
+</svg>

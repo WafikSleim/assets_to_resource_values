@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.124" height="24.818" viewBox="0 0 26.124 24.818">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.882" y1="1.196" x2="-0.117" y2="-0.323" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8742f5"/>
+      <stop offset="1" stop-color="#f5579c"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-round-work" data-name="Icon material-round-work" d="M26.511,8.225H21.287V5.612A2.6,2.6,0,0,0,18.674,3H13.45a2.6,2.6,0,0,0-2.612,2.612V8.225H5.612a2.592,2.592,0,0,0-2.6,2.612L3,25.205a2.6,2.6,0,0,0,2.612,2.612h20.9a2.6,2.6,0,0,0,2.612-2.612V10.837A2.6,2.6,0,0,0,26.511,8.225Zm-7.837,0H13.45V5.612h5.225Z" transform="translate(-3 -3)" fill="url(#linear-gradient)"/>
+</svg>

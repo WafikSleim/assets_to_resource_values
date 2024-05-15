@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.3" height="29.306" viewBox="0 0 29.3 29.306">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.882" y1="1.196" x2="-0.117" y2="-0.323" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8742f5"/>
+      <stop offset="1" stop-color="#f5579c"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_fa-solid-magnifying-glass-location" data-name="Icon fa-solid-magnifying-glass-location" d="M23.808,11.9a11.875,11.875,0,0,1-2.289,7.022l7.245,7.251a1.833,1.833,0,0,1-2.593,2.593l-7.245-7.251A11.906,11.906,0,1,1,23.808,11.9Zm-7.325-1.831a4.578,4.578,0,1,0-9.157,0c0,2.793,2.661,6.387,3.926,7.932a.83.83,0,0,0,1.3,0c1.265-1.545,3.926-5.139,3.926-7.932Zm-6.41,0A1.831,1.831,0,1,1,11.9,11.9,1.831,1.831,0,0,1,10.072,10.072Z" fill="url(#linear-gradient)"/>
+</svg>

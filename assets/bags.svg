@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.324" height="34.155" viewBox="0 0 27.324 34.155">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.882" y1="1.196" x2="-0.117" y2="-0.323" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8742f5"/>
+      <stop offset="1" stop-color="#f5579c"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-round-shopping-bag" data-name="Icon material-round-shopping-bag" d="M29.909,9.831H26.493a6.831,6.831,0,0,0-13.662,0H9.416A3.426,3.426,0,0,0,6,13.247V33.74a3.426,3.426,0,0,0,3.416,3.416H29.909a3.426,3.426,0,0,0,3.416-3.416V13.247A3.426,3.426,0,0,0,29.909,9.831ZM16.247,16.662a1.708,1.708,0,1,1-3.416,0V13.247h3.416ZM19.662,6.416a3.426,3.426,0,0,1,3.416,3.416H16.247A3.426,3.426,0,0,1,19.662,6.416Zm6.831,10.247a1.708,1.708,0,0,1-3.416,0V13.247h3.416Z" transform="translate(-6 -3)" fill="url(#linear-gradient)"/>
+</svg>

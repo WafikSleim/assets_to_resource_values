@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.882" y1="1.196" x2="-0.117" y2="-0.323" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8742f5"/>
+      <stop offset="1" stop-color="#f5579c"/>
+    </linearGradient>
+  </defs>
+  <path id="Icon_material-round-access-time-filled" data-name="Icon material-round-access-time-filled" d="M15.488,3A12.5,12.5,0,1,0,28,15.5,12.494,12.494,0,0,0,15.488,3ZM20.5,20.5a1.245,1.245,0,0,1-1.762,0l-4.112-4.112a1.25,1.25,0,0,1-.375-.888v-5a1.25,1.25,0,0,1,2.5,0v4.488l3.75,3.75A1.245,1.245,0,0,1,20.5,20.5Z" transform="translate(-3 -3)" fill="url(#linear-gradient)"/>
+</svg>
